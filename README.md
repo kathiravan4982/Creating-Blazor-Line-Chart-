@@ -17,8 +17,8 @@ The project is structured as a standard Blazor application and includes dedicate
 
 ## Prerequisites
 
-- Visual Studio 2022 or Visual Studio Code
-- .NET SDK compatible with the project's target framework
+- Visual Studio 2022 or later, or Visual Studio Code
+- .NET 10.0 SDK
 
 ## How to Run the Project
 
